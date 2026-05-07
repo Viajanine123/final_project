@@ -17,4 +17,3 @@ This project is an e-commerce website for electronics and gadgets.
 - JavaScript
 
 ## Live Website
-https://yourproject.netlify.app
